@@ -5,7 +5,7 @@
   "dependencies": {
     "apollo-server": "^2.6.3",
     "graphql-yoga": "^1.18.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "nodemon": "^1.19.1"
   }
 }
